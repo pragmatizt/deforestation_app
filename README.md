@@ -1,6 +1,9 @@
 # deforestation_app
 Wrangle, model, forecast, and upload deforestation data onto web application.  
 
+#### Map of data we wrangled, modeled, and forecasted on: ####
+- https://client.nicholasgebhart.now.sh/map (10/25/19: only years 1990 and 2025 are showing)
+
 #### Datasets obtained from: ####
 - https://databank.worldbank.org/data/reports.aspx?source=2&series=AG.LND.FRST.ZS 
 
