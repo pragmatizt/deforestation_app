@@ -2,6 +2,8 @@
 Wrangle, model, forecast, and upload deforestation data onto web application.  
 
 #### Map of data we wrangled, modeled, and forecasted on: ####
+- Country charts and map (see links on top of screen): https://client-ac3i8k0os.now.sh/map
+- Attempt at toggling and observing forest coverage rates between years (1990 vs. 2025 in this example): https://client-3fkmf6sm1.now.sh/map
 - https://client.nicholasgebhart.now.sh/map (10/25/19: only years 1990 and 2025 are showing)
 
 #### Datasets obtained from: ####
